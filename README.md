@@ -20,4 +20,4 @@ Football match data exploration of Men's World Cup 2022 and Women's World Cup 20
 2. Follow the installation instructions to obtain access to the StatsbombR library using the repo: https://github.com/statsbomb/StatsBombR
 3. Install other required packages:
    ```r
-   install.packages(c("tidyverse", "ggplot2", "dplyr", "tidyr", "purrr", "glmnet"))
+   install.packages(c("tidyverse", "ggplot2", "dplyr", "tidyr", "purrr", "glmnet", "interactions"))
