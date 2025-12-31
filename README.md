@@ -23,7 +23,7 @@ Football match data exploration of Men's World Cup 2022 and Women's World Cup 20
 
 - The influence of confounding variables emphasises the importance of looking beyond high level differences and ensuring context and nuance is captured when analysing football data
 
-## How to Run
+## How to Run Analysis
 1. Open the R script called: `passing_analysis.R`
 2. Follow the installation instructions to obtain access to the StatsbombR library using the repo: https://github.com/statsbomb/StatsBombR
 3. Install other required packages:
