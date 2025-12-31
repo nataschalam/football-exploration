@@ -1,4 +1,4 @@
-# football-exploration
+# Exploratory Analysis of Statsbomb Football Match Data 
 Football match data exploration of Men's World Cup 2022 and Women's World Cup 2023 to understand differences between men's and women's playing styles beyond physiological differences between gender. 
 
 ## Data
